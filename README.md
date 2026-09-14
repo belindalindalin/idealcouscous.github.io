@@ -1,5 +1,3 @@
-# idealcouscous.github.io
-
 <h1>fortune cookie</h1>
 <div>
     <details>
