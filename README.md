@@ -1,4 +1,4 @@
-<h1>fortune cookie</h1>
+<h1>fortune cookie README</h1>
 <div>
     <details>
   <summary>open me!</summary>
